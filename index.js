@@ -1,5 +1,5 @@
 let nome = "Homem-aranha"
-let xp = "terra"
+let xp = 7053
 let nivel ="" 
 
 if(xp < 1000){
